@@ -168,6 +168,7 @@
                         <button class="edit-button">Edit</button>
                         <button class="delete-button" onclick="deleteContent()">Delete</button>
                     </div>
+                    <div></div>
                 </div>
             </div>
         </div>
